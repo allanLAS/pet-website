@@ -1,0 +1,22 @@
+body {
+  background-color: floralwhite;
+}
+
+.spike {
+  padding: 6px;
+  margin: 10px;
+}
+
+h1 {
+  color: darkcyan;
+  text-align: center;
+  font-style: oblique;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  line-height: 30px;
+}
